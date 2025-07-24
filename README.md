@@ -2,9 +2,6 @@
 
 A simple and responsive Weather App built using **HTML**, **CSS**, and **JavaScript** that fetches real-time weather data using the **OpenWeatherMap API**.
 
-## 📸 Preview
-
-![Weather App Screenshot](screenshot.png) <!-- Add your screenshot image in your repo -->
 
 ## 🚀 Features
 
