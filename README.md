@@ -15,14 +15,15 @@ A simple and responsive Weather App built using **HTML**, **CSS**, and **JavaScr
 
 - **HTML5** – Structure of the application
 - **CSS3** – Styling and responsive layout
-- **JavaScript (Vanilla JS)** – Fetch API & DOM manipulation
+- **JavaScript** – Fetch API & DOM manipulation
 - **OpenWeatherMap API** – Real-time weather data
 
-## 📂 Folder Structure
+🚀 How to Use
 
-📌 Future Improvements
+1.Clone this repository:
+git clone https://github.com/yourusername/weather-app.git
 
-🌤️ Add weather icons
-📍 Geolocation-based weather
-🌙 Dark/light theme toggle
-🌐 Language & unit conversion support
+2.Open the project folder and replace the API key in the JavaScript file:
+const API_KEY = "your_api_key_here";
+
+3.Open index.html in your browser.
